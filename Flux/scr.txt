@@ -1,0 +1,222 @@
+"""
+    "Greetings, sir.",
+    "He is Mr. Venkat Avadhani.",
+    "Special advisor to the Nizam.",
+    "Governor Scott is not in India.",
+    "State the purpose of your visit to Mr. Edward.",
+    "When Governor Scott visited Adilabad recently,",
+    "he brought back with him a little girl.",
+    "Our Nawab has sent me to tell you something about it.",
+    "It's regarding the girl we brought from the Deccan.",
+    "It is our police department's opinion that the girl be returned to her village.",
+    "It is our Nawab's opinion too-",
+    "Why so?",
+    "It is a Gond child that you've brought, sir.",
+    "So?",
+    "So what?",
+    "Do they have two horns on their head?",
+    "They are an innocent people, sir.",
+    "Even if you oppress them they won't raise their voice.",
+    "But they have a trait.",
+    "They like staying in herds like sheep.",
+    "Even if one lamb goes missing it causes them great distress.",
+    "This is why the herd has a shepherd.",
+    "He protects the herd with his life.",
+    "So this tribal is going to sh**t down the mighty British empire with his bow and arrows.",
+    "So is this tribal going to take us down?",
+    "Don't misunderstand me.",
+    "I'm only trying to tell you about him.",
+    "The shepherd will travel however far to retrieve the missing lamb.",
+    "Be it morning or night,",
+    "sun or rain, rocks, mountains, valleys, peaks...",
+    "he will search anywhere and everywhere for the missing lamb and will eventually find it.",
+    "If at that time the lamb is in the tiger's mouth",
+    "he will break its teeth, pry its jaws open",
+    "and take the lamb back to its herd.",
+    "It seems that the shepherd has come to Delhi to begin his hunt.",
+    "FOREST OUTSIDE DELHI",
+    "The trap is set. Alert our brother.",
+    "Jangu, it's not a wolf. It's a tiger.",
+    "Jangu!",
+    "I am using you for my need.",
+    "Forgive me, brother.",
+    "It's been 6 months since we've come to Delhi.",
+    "We are doing everything we can to find Malli.",
+    "Do you think Malli is alive?",
+    "Akthar.",
+    "Where did you disappear off to?",
+    "There's a lot of work. Come on.",
+    "Give it to me.",
+    "Hey! You!",
+    "Greetings, sir.",
+    "The engine died on me again what did you repair?",
+    "I've been kicking and kicking",
+    "and this damn thing won't start.",
+    "Let me check, sir.",
+    "It's on reserve, sir.",
+    "I'm sorry.",
+    "What's the bloody trick?",
+    "I didn't do anything, sir.",
+    "You removed something earlier and attached it now",
+    "so that you can charge me again?",
+    "I didn't do anything, sir.",
+    "You cheating bastard!",
+    "There's no fault of mine, sir.",
+    "Sir. Please forgive him, sir.",
+    "I didn't do anything, sir.",
+    "Forgive him, sir.",
+    "Robert, please stop it.",
+    "It's not his fault.",
+    "This will never happen again, sir! I beg you.",
+    "Oh God!",
+    "Son.",
+    "Careful, son.",
+    "Brother, are you okay?",
+    "He is a monster.",
+    "Look how badly he has beaten him.",
+    "Why are you hiding your anger, son?",
+    "If they come to know the truth about me...",
+    "they will punish you all for giving me shelter.",
+    "Even though I wasn't born to you,",
+    "you are protecting me with your life.",
+    "I shouldn't cause you any harm.",
+    "Come what may, I'll never let anyone know my true identity.",
+    "And that is the gist of it.",
+    "We have a hunter targeting the Governor roaming free in Delhi.",
+    "We shouldn't really be bothering about imbecile tribals.",
+    "However, our good friend the Nizam",
+    "who knows the prowess of these tribals seems to think so.",
+    "And since this is a matter regarding the Governor",
+    "we should act on it.",
+    "And with a good deal of bother.",
+    "Alright, sir.",
+    "We will apprehend this bugger.",
+    "Though I would rather roast this swine on a bed of coals.",
+    "Let us have the file, sir.",
+    "Well yes, that is the catch, officer.",
+    "We have nothing on him.",
+    "You mean nothing?",
+    "Identifying features?",
+    "Criminal history?",
+"""
+
+
+
+It's amazing. Who's the artist?
+
+What? This chit of a girl?
+
+I want to have this little package
+on our mantelpiece.
+
+Edward.
+-Yes, sir.
+
+The Lady is giving you a token of
+appreciation for your childs song.
+
+Take it, Loki.
+
+At your service, Lady.
+
+At your service, Lord.
+
+Malli.
+
+Loki, the money they have given you
+was not for the song.
+
+Theyve bought your daughter.
+
+MALLI!
+
+Malli.
+
+Malli... Malli...
+
+My child.
+
+Please give me back my child.
+
+I fall at your feet.
+
+I beg you!
+
+I beg you.
+I fall at your feet.
+
+Sergeant!
+
+Do you comprehend the value
+of the b*llet in your barrel?
+
+It was manufactured in an English factory
+using English metals.
+
+It crossed the 7 seas in an English vessel.
+
+By the time it reached
+the barrel of your g*n
+
+it cost One Pound.
+
+One Pound Sterling!
+
+And you would want to squander it on
+
+brown rubbish?
+
+Clear the road.
+
+Please dont take my child away
+Im begging you
+
+Lady, please.
+
+THE FIRE
+
+OUTSKIRTS OF DELHI
+
+Release our leader Lala Lajpat Rai!
+Otherwise well burn down this police station!
+
+Release our leader Lala Lajpat Rai!
+
+Of course not, sir.
+We havent done anything to provoke them.
+
+They are rioting here because
+Lala Lajpat Rai has been arrested in Calcutta.
+
+Theyre rabid!
+
+We need reinforcements NOW!
+
+It's going to take another 7 hours.
+
+Hold the line, damn it!
+
+Lets burn them down!
+
+Arrest that bastard
+
+and
+
+bring him to me
+
+You double-crosser!
+
+You filthy traitor!
+
+Good God!
+
+That mob!
+
+I was scared out of my wits, sir!
+
+He scares me more.
+
+BRITISH BARRACKS, DELHI
+
+On the occasion of the annual
+special officers' ceremony

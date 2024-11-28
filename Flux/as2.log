@@ -1,0 +1,42 @@
+/opt/conda/lib/python3.10/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: `clean_up_tokenization_spaces` was not set. It will be set to `True` by default. This behavior will be depracted in transformers v4.45, and will be then set to `False` by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(
+Hardware accelerator e.g. GPU is available in the environment, but no `device` argument is passed to the `Pipeline` object. Model will be on CPU.
+Hardware accelerator e.g. GPU is available in the environment, but no `device` argument is passed to the `Pipeline` object. Model will be on CPU.
+/opt/conda/lib/python3.10/site-packages/torch/_utils.py:776: UserWarning: TypedStorage is deprecated. It will be removed in the future and UntypedStorage will be the only storage class. This should only matter to you if you are using storages directly.  To access UntypedStorage directly, use tensor.untyped_storage() instead of tensor.storage()
+  return self.fget.__get__(instance, owner)()
+Hardware accelerator e.g. GPU is available in the environment, but no `device` argument is passed to the `Pipeline` object. Model will be on CPU.
+Hardware accelerator e.g. GPU is available in the environment, but no `device` argument is passed to the `Pipeline` object. Model will be on CPU.
+Hardware accelerator e.g. GPU is available in the environment, but no `device` argument is passed to the `Pipeline` object. Model will be on CPU.
+Hardware accelerator e.g. GPU is available in the environment, but no `device` argument is passed to the `Pipeline` object. Model will be on CPU.
+Using device: cuda
+Scores for mBART:
+  BLEU_ES: 0.0000
+  BLEU_IT: 0.0000
+  TER_ES: 63.0000
+  TER_IT: 72.0000
+  ChrF_ES: 13.7117
+  ChrF_IT: 2.7209
+Scores for Opus-MT-ES:
+  BLEU_ES: 0.0000
+  BLEU_IT: 0.0000
+  TER_ES: 57.0000
+  TER_IT: 66.0000
+  ChrF_ES: 23.3437
+  ChrF_IT: 14.1570
+Scores for M2M-100:
+  BLEU_ES: 0.0000
+  BLEU_IT: 0.0000
+  TER_ES: 60.0000
+  TER_IT: 68.0000
+  ChrF_ES: 10.8159
+  ChrF_IT: 8.8425
+
+Mean Win Rates:
+mBART: 0.6667
+Opus-MT-ES: 1.3333
+M2M-100: 0.0000
+
+Ranked Models:
+Opus-MT-ES: 1.3333
+mBART: 0.6667
+M2M-100: 0.0000

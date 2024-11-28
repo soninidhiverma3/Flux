@@ -1,0 +1,23 @@
+/opt/conda/lib/python3.10/site-packages/torch/_utils.py:776: UserWarning: TypedStorage is deprecated. It will be removed in the future and UntypedStorage will be the only storage class. This should only matter to you if you are using storages directly.  To access UntypedStorage directly, use tensor.untyped_storage() instead of tensor.storage()
+  return self.fget.__get__(instance, owner)()
+/opt/conda/lib/python3.10/site-packages/transformers/tokenization_utils_base.py:1601: FutureWarning: `clean_up_tokenization_spaces` was not set. It will be set to `True` by default. This behavior will be depracted in transformers v4.45, and will be then set to `False` by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(
+Hardware accelerator e.g. GPU is available in the environment, but no `device` argument is passed to the `Pipeline` object. Model will be on CPU.
+/opt/conda/lib/python3.10/site-packages/transformers/pipelines/__init__.py:1076: UserWarning: "translation" task was used, instead of "translation_XX_to_YY", defaulting to "translation_en_to_ro"
+  warnings.warn(
+Hardware accelerator e.g. GPU is available in the environment, but no `device` argument is passed to the `Pipeline` object. Model will be on CPU.
+Hardware accelerator e.g. GPU is available in the environment, but no `device` argument is passed to the `Pipeline` object. Model will be on CPU.
+
+Evaluation Metrics for Tagalog LLM:
+{'BLEU': 0.2606037591976101, 'ROUGE': 0.5077700350457233, 'METEOR': 0.4895373237608267, 'CHRF': 57.33761763998826}
+
+Evaluation Metrics for Swahili mBART LLM:
+{'BLEU': 0.0007973159025660009, 'ROUGE': 0.002465899713606136, 'METEOR': 0.002652078386115981, 'CHRF': 1.990114487739923}
+
+Evaluation Metrics for Swahili M2M-100 LLM:
+{'BLEU': 0.012687957965662104, 'ROUGE': 0.04934550556819465, 'METEOR': 0.046698641052810796, 'CHRF': 13.488115207250653}
+
+Model Rankings Based on Mean Win Rate (Average of all Metrics):
+1. Tagalog LLM: Mean Score = 14.6489
+2. Swahili M2M-100 LLM: Mean Score = 3.3992
+3. Swahili mBART LLM: Mean Score = 0.4990
